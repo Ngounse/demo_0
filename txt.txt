@@ -1,4 +1,5 @@
 asdjbasskbdkjasn
+<<<<<<< HEAD
 alksndlas
 ajk  skjdanks
 aksjdkasjn
@@ -6,3 +7,10 @@ jbaisjbdiasb
 akjbsidbais
 absjdiasb
 jbaisjbdiasb
+=======
+amnm sjd asdjbasskbdkjasnajksd
+ajkbsbdjas
+akjjsbkdjabksjd
+ajksdajsbd
+jaksdajsbd
+>>>>>>> 68a329b ( aihusdiabs)
